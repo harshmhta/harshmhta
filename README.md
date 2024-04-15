@@ -19,12 +19,11 @@ Hi 👋 My name is Harsh Mehta
 Software Engineer | Web Developer and Designer | Entreprenuer
 --------------------------
 
-* 🌍  I'm currently based in Arlington, Virginia
-* 🖥️  See my portfolio at [harsh.bio](https://www.harsh.bio)
-* ✉️  You can contact me at [mehta@harsh.bio](mailto:mehta@harsh.bio)
-* 🚀  I'm currently working on rebuilding the [MeIsWe Foundation](https://www.meiswe.org) website
-* 🧠  I'm learning [Webflow](https://www.webflow.com) and UI/UX using [Figma](https://www.figma.com)
-* 🤝  I'm open to collaborating on interesting projects, [hit me up!](mailto:mehta@harsh.bio)
+* 🌍  I'm currently based in Miami, Florida
+* 🖥️  See my portfolio at [harsh@mhta.xyz](https://www.harsh.bio)
+* ✉️  You can contact me at [harsh@mhta.xyz](mailto:harsh@mhta.xyz)
+* 🚀  I'm currently working on SearchShark [SearchShark](https://searchshark.me/) website
+* 🤝  I'm open to collaborating on interesting projects, [hit me up!](mailto:harsh@mhta.xyz)
 * ⚡  I love soccer, going on runs and travelling!
 
 ### Skills
