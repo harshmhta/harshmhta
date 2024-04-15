@@ -20,9 +20,8 @@ Software Engineer | Web Developer and Designer | Entreprenuer
 --------------------------
 
 * 🌍  I'm currently based in Miami, Florida
-* 🖥️  See my portfolio at [harsh@mhta.xyz](https://www.harsh.bio)
 * ✉️  You can contact me at [harsh@mhta.xyz](mailto:harsh@mhta.xyz)
-* 🚀  I'm currently working on SearchShark [SearchShark](https://searchshark.me/) website
+* 🚀  I'm currently working on [SearchShark](https://searchshark.me/) website
 * 🤝  I'm open to collaborating on interesting projects, [hit me up!](mailto:harsh@mhta.xyz)
 * ⚡  I love soccer, going on runs and travelling!
 
