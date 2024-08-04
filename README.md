@@ -20,9 +20,9 @@ Software Engineer | Web Developer and Designer | Entreprenuer
 --------------------------
 
 * 🌍  I'm currently based in Miami, Florida
-* ✉️  You can contact me at [harsh@mhta.xyz](mailto:harsh@mhta.xyz)
+* ✉️  You can contact me at [harsh@harshmehta.me](mailto:harsh@harshmehta.me)
 * 🚀  I'm currently working on developing...
-* 🤝  I'm open to collaborating on interesting projects, [hit me up!](mailto:harsh@mhta.xyz)
+* 🤝  I'm open to collaborating on interesting projects, [hit me up!](mailto:harsh@harshmehta.me)
 * ⚡  I love soccer, going on runs and travelling!
 
 ### Skills
