@@ -19,7 +19,7 @@ Hi 👋 My name is Harsh Mehta
 Software Engineer | Web Developer and Designer | Entreprenuer
 --------------------------
 
-* 🌍  I'm currently based in Miami, Florida
+* 🌍  I'm currently based in New York, New York
 * ✉️  You can contact me at [harsh@harshmehta.me](mailto:harsh@harshmehta.me)
 * 🚀  I'm currently working on developing...
 * 🤝  I'm open to collaborating on interesting projects, [hit me up!](mailto:harsh@harshmehta.me)
