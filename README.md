@@ -16,13 +16,12 @@ Here are some ideas to get you started:
 Hi 👋 My name is Harsh Mehta
 ============================
 
-Software Engineer | Web Developer and Designer | Entreprenuer
+Software Engineer
 --------------------------
 
-* 🌍  I'm currently based in New York, New York
-* ✉️  You can contact me at [harsh@harshmehta.me](mailto:harsh@harshmehta.me)
-* 🚀  I'm currently working on developing...
-* 🤝  I'm open to collaborating on interesting projects, [hit me up!](mailto:harsh@harshmehta.me)
+* 🌍  I'm currently based in New York
+* ✉️  You can contact me at [hhmhta@gmail.com](mailto:hhmhta@gmail.com)
+* 🤝  I'm open to collaborating on interesting projects, [hit me up!](mailto:hhmhta@gmail.com)
 * ⚡  I love soccer, going on runs and travelling!
 
 ### Skills
