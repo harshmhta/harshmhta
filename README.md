@@ -19,7 +19,7 @@ Hi 👋 My name is Harsh Mehta
 Software Engineer
 --------------------------
 
-* 🌍  I'm currently based in New York
+* 🌍  I'm currently based in San Francisco
 * ✉️  You can contact me at [hhmhta@gmail.com](mailto:hhmhta@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects, [hit me up!](mailto:hhmhta@gmail.com)
 * ⚡  I love soccer, going on runs and travelling!
