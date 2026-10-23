@@ -1,45 +1,59 @@
-<!--
-**harshmhta/harshmhta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img alt="Harsh Mehta. Software engineer in San Francisco. A little particular about software." src="./assets/header-light.svg" width="100%">
+</picture>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Hi 👋 My name is Harsh Mehta
-============================
-
-Software Engineer
---------------------------
-
-* 🌍  I'm currently based in San Francisco
-* ✉️  You can contact me at [hhmhta@gmail.com](mailto:hhmhta@gmail.com)
-* 🤝  I'm open to collaborating on interesting projects, [hit me up!](mailto:hhmhta@gmail.com)
-* ⚡  I love soccer, going on runs and travelling!
-
-### Skills
-
-<p align="left">
-<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="CPP" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-
+<p>
+  <a href="mailto:hhmhta@gmail.com">Email</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/harshmhta/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="https://github.com/harshmhta?tab=repositories">Public repos</a>
 </p>
 
+I care about what gets built as much as how it works.
 
-### Socials
+Lately, that's meant a native Mac app for PDFs and a sports app for the TV. I work across the interface and the backend. The part where a stream dies halfway through a match gets my attention, too.
 
-<p align="left"> <a href="https://www.github.com/harshmhta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> </a> <a href="https://www.linkedin.com/in/harshmhta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+## A few things I've built
+
+### Astra
+
+**Getting to the game should be easier than finding the remote.**
+
+A self-hosted backend and an Android TV app for an IPTV subscription you already have. The backend turns a provider's library into Stremio catalogs, matches titles to IMDb, and connects sports fixtures to available feeds. The TV app puts your teams, live scores, and playback in one place.
+
+Feeds are ranked using programme-guide evidence and region preferences, and the player automatically moves on when a feed fails. Fewer dead ends between you and kickoff.
+
+[Backend](https://github.com/harshmhta/astra-stremio-addon) · [TV app](https://github.com/harshmhta/astra-tv)<br>
+<sub>Node.js · Kotlin · Jetpack Compose for TV · Media3</sub>
+
+### Ream
+
+**Your PDF can stay on your Mac.**
+
+A free, native macOS PDF app built with SwiftUI and AppKit. The current alpha handles annotations, page management, conversion, and compression to a target file size, all on-device.
+
+My kind of feature is a box where you enter the file size you actually need. Ream searches resolution and quality to try to meet it. Small detail, very real problem.
+
+[Code](https://github.com/harshmhta/ream)<br>
+<sub>Swift · SwiftUI · AppKit · PDFKit · v0.1 alpha</sub>
+
+### Faded
+
+A mobile app in development for tracking cannabis use and building new habits. Daily check-ins, consumption logs, and a chapter-based course with saved progress. This is where I spend time on the interface, too: typography, haptics, and the way a daily action feels.
+
+[Code](https://github.com/harshmhta/faded-app)<br>
+<sub>React Native · Expo · TypeScript · Appwrite</sub>
+
+## A couple more rabbit holes
+
+| Project | What I explored |
+| :--- | :--- |
+| [Golazo](https://github.com/harshmhta/worldcup-2026-bet-tracker) | A local-first World Cup bet tracker with SQLite, results-based settlement, and screenshot-to-structured-data parsing. |
+| [Mockchain](https://github.com/harshmhta/Mockchain) | An earlier blockchain learning project with transactions, block mining, and chain validation behind HTTP endpoints. |
+
+## Away from the editor
+
+Football, runs, and travel. The sports projects above probably gave one of those away.
+
+If you're building something you'd be annoyed didn't exist, [I'd like to hear about it](mailto:hhmhta@gmail.com).

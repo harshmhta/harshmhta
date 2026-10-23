@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Harsh Mehta</title>
+  <desc id="desc">Software engineer in San Francisco. A little particular about software. An abstract lime paper fold and play symbol sit beside the name.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#292D32" stroke-width=".7"/></pattern>
+    <clipPath id="clip"><rect width="1200" height="380" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="380" fill="#14171A"/>
+    <rect x="804" width="396" height="380" fill="url(#grid)"/>
+    <path d="M40 70H1160" stroke="#353A40"/>
+    <circle cx="47" cy="39" r="5" fill="#D8F579"/>
+    <text x="64" y="44" fill="#BFC4CA" font-family="'SFMono-Regular',Consolas,monospace" font-size="13" letter-spacing="2">SOFTWARE ENGINEER</text>
+    <text x="1160" y="44" text-anchor="end" fill="#BFC4CA" font-family="'SFMono-Regular',Consolas,monospace" font-size="13" letter-spacing="2">SAN FRANCISCO</text>
+    <text x="38" y="187" fill="#F4F3EB" font-family="Georgia,'Times New Roman',serif" font-size="94" letter-spacing="-5">Harsh Mehta.</text>
+    <text x="43" y="246" fill="#D8F579" font-family="Arial,Helvetica,sans-serif" font-size="29" letter-spacing="-.6">A little particular about software.</text>
+    <path d="M43 315H87" stroke="#D8F579" stroke-width="3"/>
+    <text x="101" y="320" fill="#9EA6AF" font-family="'SFMono-Regular',Consolas,monospace" font-size="12" letter-spacing="1.7">SELECTED WORK BELOW</text>
+    <g transform="translate(897 115) rotate(9 95 102)">
+      <path d="M0 0H130L190 60V204H0V0Z" fill="#D8F579"/>
+      <path d="M130 0V60H190" fill="#A8C153"/>
+      <path d="M130 0V60H190" stroke="#14171A" stroke-opacity=".22"/>
+      <path d="M69 84L125 116L69 148V84Z" fill="#14171A"/>
+      <path d="M25 179H164" stroke="#14171A" stroke-width="1.5" stroke-opacity=".3"/>
+    </g>
+    <path d="M870 118H852V100M1117 320H1135V302" stroke="#727A64" stroke-width="1.5"/>
+    <circle cx="1135" cy="100" r="4" stroke="#D8F579" stroke-width="1.5"/>
+  </g>
+</svg>
