@@ -1,59 +1,27 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img alt="Harsh Mehta. Software engineer in San Francisco. A little particular about software." src="./assets/header-light.svg" width="100%">
-</picture>
+# Harsh Mehta
 
-<p>
-  <a href="mailto:hhmhta@gmail.com">Email</a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/harshmhta/">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="https://github.com/harshmhta?tab=repositories">Public repos</a>
-</p>
+Software engineer in San Francisco. I design and build apps for Mac, mobile, and TV.
 
-I care about what gets built as much as how it works.
+### Recent work
 
-Lately, that's meant a native Mac app for PDFs and a sports app for the TV. I work across the interface and the backend. The part where a stream dies halfway through a match gets my attention, too.
+**[Ream](https://github.com/harshmhta/ream)**
 
-## A few things I've built
+A free PDF app for Mac. Native SwiftUI, everything on-device. Annotate, merge, split, convert, or compress a PDF to the file size you need. Still in alpha.
 
-### Astra
+**[Astra TV](https://github.com/harshmhta/astra-tv) + [Astra](https://github.com/harshmhta/astra-stremio-addon)**
 
-**Getting to the game should be easier than finding the remote.**
+An Android TV app and self-hosted backend for watching sports through your own IPTV subscription. Live scores, your teams, and a player that switches feeds when one dies. Kotlin on the TV, Node.js on the server.
 
-A self-hosted backend and an Android TV app for an IPTV subscription you already have. The backend turns a provider's library into Stremio catalogs, matches titles to IMDb, and connects sports fixtures to available feeds. The TV app puts your teams, live scores, and playback in one place.
+**[Faded](https://github.com/harshmhta/faded-app)**
 
-Feeds are ranked using programme-guide evidence and region preferences, and the player automatically moves on when a feed fails. Fewer dead ends between you and kickoff.
+A mobile app for cutting back on cannabis. Daily check-ins, consumption tracking, and a course with saved progress. Built with React Native and Expo. In development.
 
-[Backend](https://github.com/harshmhta/astra-stremio-addon) · [TV app](https://github.com/harshmhta/astra-tv)<br>
-<sub>Node.js · Kotlin · Jetpack Compose for TV · Media3</sub>
+**[Golazo](https://github.com/harshmhta/worldcup-2026-bet-tracker)**
 
-### Ream
+A World Cup bet tracker. Tracks results and bankroll locally, and can read a bet slip from a screenshot. There is a disproportionate amount of football in these repos.
 
-**Your PDF can stay on your Mac.**
+---
 
-A free, native macOS PDF app built with SwiftUI and AppKit. The current alpha handles annotations, page management, conversion, and compression to a target file size, all on-device.
+Also into running and travel.
 
-My kind of feature is a box where you enter the file size you actually need. Ream searches resolution and quality to try to meet it. Small detail, very real problem.
-
-[Code](https://github.com/harshmhta/ream)<br>
-<sub>Swift · SwiftUI · AppKit · PDFKit · v0.1 alpha</sub>
-
-### Faded
-
-A mobile app in development for tracking cannabis use and building new habits. Daily check-ins, consumption logs, and a chapter-based course with saved progress. This is where I spend time on the interface, too: typography, haptics, and the way a daily action feels.
-
-[Code](https://github.com/harshmhta/faded-app)<br>
-<sub>React Native · Expo · TypeScript · Appwrite</sub>
-
-## A couple more rabbit holes
-
-| Project | What I explored |
-| :--- | :--- |
-| [Golazo](https://github.com/harshmhta/worldcup-2026-bet-tracker) | A local-first World Cup bet tracker with SQLite, results-based settlement, and screenshot-to-structured-data parsing. |
-| [Mockchain](https://github.com/harshmhta/Mockchain) | An earlier blockchain learning project with transactions, block mining, and chain validation behind HTTP endpoints. |
-
-## Away from the editor
-
-Football, runs, and travel. The sports projects above probably gave one of those away.
-
-If you're building something you'd be annoyed didn't exist, [I'd like to hear about it](mailto:hhmhta@gmail.com).
+[Email](mailto:hhmhta@gmail.com) · [LinkedIn](https://www.linkedin.com/in/harshmhta/)
